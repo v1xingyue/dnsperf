@@ -1,0 +1,5 @@
+www.baidu.com A
+slavemysql.newaaa.secintra.sina.com.cn A
+secregistry.intra.sina.com.cn A
+secintra.sina.com.cn A
+mail.staff.sina.com.cn A
