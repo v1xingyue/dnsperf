@@ -3,7 +3,7 @@
 
 for((i=0;i<200;i++))
 do
-./dnsperf -s 10.210.3.100 -d a.txt &
+./dnsperf -s 10.210.3.100 -d a.txt -Q 3000 &
 done
 
 
